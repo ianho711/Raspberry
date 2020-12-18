@@ -1,8 +1,8 @@
-1. 到 https://www.raspberrypi.org/software/ 下載 Raspberry Pi OS
+1. 到官網(https://www.raspberrypi.org/software/)下載 Raspberry Pi OS
 2. 安裝到 SD card
-3. Raspberry板開機, 連上區網, 紀錄IP位址
-4. Configure內除了 VNC 外, 全部 Enable
-5. 用 SSH 連入 raspberry
+3. SD Card 插入 RPi主板, 開機後連入網路, 紀錄IP位址
+4. Raspberry Configure (Comm.)內除了 VNC 外, 全部 Enable
+5. 用 SSH 連入 RPi
 6. sudo apt-get update
 7. sudo apt-get install xrdp
 8. 遠端桌面連線
