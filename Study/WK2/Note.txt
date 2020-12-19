@@ -2,6 +2,7 @@
 1. linux cmd touch create file
 2. nano text editor
 
+
 pi@raspberry:~$ python3 --version
 Python 3.7.3
 
@@ -9,7 +10,12 @@ pi@raspberry:~$ which python3
 /usr/bin/python3
 
 
+$ sudo vim .bashrc
+insert to last line =>  export PATH="/usr/bin:$PATH"
+$ source .bashrc
 
-export PATH="/usr/bin:$PATH"
-source .bashrc
+
+wget 
+# download from internet
+
 
