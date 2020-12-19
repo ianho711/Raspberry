@@ -18,4 +18,4 @@ $ source .bashrc
 wget 
 # download from internet
 
-
+export PATH=/home/pi/miniconda3/bin:$PATH
