@@ -1,1 +1,16 @@
 20201219
+1. linux cmd touch create file
+2. nano text editor
+
+pi@raspberry:/usr/bin $ python3 --version
+Python 3.7.3
+
+pi@raspberry:/usr/bin $ cd /usr/local/bin
+pi@raspberry:/usr/local/bin $ which python3
+/usr/bin/python3
+
+pi@raspberry:/usr/local/bin $ which python
+/usr/bin/python
+
+pi@raspberry:/usr/local/bin $ 
+
