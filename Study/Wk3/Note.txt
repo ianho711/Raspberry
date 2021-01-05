@@ -1,1 +1,16 @@
 20201226
+
+建立python虛擬環境
+
+建立虛擬環境venv01, 3.8為要安裝的版本
+conda create -n venv01 python=3.8
+
+啟動虛擬環境
+source activate venv01
+
+退出虛擬環境
+source deactivate
+
+看所有虛擬環境
+conda info -e
+
